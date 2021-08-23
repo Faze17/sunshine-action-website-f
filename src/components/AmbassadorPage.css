@@ -1,0 +1,21 @@
+
+
+
+body {
+    font-family: 'PT Sans', sans-serif;
+    background-color: rgb(82,97,147);
+ }
+ h1 {
+    text-align: center;
+    font-weight: bold;
+ }
+ p,li,div {
+    color: #fff;
+ }
+ p,li {
+    text-align:justify;
+    font-size: 21px;
+ }
+ #sidebar,#intro,#why,#why-SA,#apply,#schools {
+    background-color: rgb(253,137,4);
+ }
